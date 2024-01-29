@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `yaodong.dev`,
+    description: `Yaodong Zhao's personal web page.`,
+    author: `@YaodongDev`,
+    siteUrl: `https://yaodong.dev/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -29,7 +29,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
-        short_name: `starter`,
+        short_name: `yaodong.dev`,
         start_url: `/`,
         background_color: `#663399`,
         // This will impact how browsers show your PWA/website
